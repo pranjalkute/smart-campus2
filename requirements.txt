@@ -1,4 +1,2 @@
 Flask
-Flask-Logic
-Flask-SQLAIchemy
 gunicorn
